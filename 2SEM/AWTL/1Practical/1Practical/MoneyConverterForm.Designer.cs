@@ -2,6 +2,7 @@
 {
     partial class MoneyConverterForm
     {
+        ///bba
         /// <summary>
         /// Required designer variable.
         /// </summary>
